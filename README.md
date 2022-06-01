@@ -123,7 +123,7 @@ SW전공 교과목 연계 경진대회 1위
 - 프로젝트 목표 : 24시간 내에 개발을 하며 택시비 부담을 줄이기 위해 목적지가 같은 사람을 모아 택시를 같이 탈 수 있게하는 서비스
 - 역할 : 카풀 그룹 생성 이벤트 및 기타 백앤드+프론트
 <img src="src/img3.png">
-<img src="src/img4.png">
+<img src="src/img4.jpg">
   
 </details>
 
@@ -133,6 +133,7 @@ SW전공 교과목 연계 경진대회 1위
 - 프로젝트 목표 : 힐링을 위한 가상현실 기반 농작 타이쿤 게임
 - 역할 : 플레이어 이벤트부터 농작물 이벤트, 모든 에셋 관리 등 전반적인 부분 기여
 <img src="src/img5.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFCvK_KgxNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 </details>
 
@@ -142,7 +143,8 @@ SW전공 교과목 연계 경진대회 1위
 - 프로젝트 목표 : VR기반  생존 런닝 게임
 - 역할 : 모든 기능 개인 개발
 <img src="src/img6.png">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S2j2F9yD7tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 </details>
 
 <details markdown="3">
@@ -150,7 +152,8 @@ SW전공 교과목 연계 경진대회 1위
 
 - 프로젝트 목표 : 지역별로 코로나 단계를 확인하고, 지역 뉴스와 확진자를 한 홈페이지에서 전부 확인이 가능한 웹 서버
 - 역할 : Django백앤드 기능 및 프론트 일부 담당
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VhAoHQ4-FvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 </details>
 
 ---
