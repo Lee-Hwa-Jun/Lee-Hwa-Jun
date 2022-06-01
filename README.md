@@ -122,7 +122,7 @@ SW전공 교과목 연계 경진대회 1위
 
 - 프로젝트 목표 : 24시간 내에 개발을 하며 택시비 부담을 줄이기 위해 목적지가 같은 사람을 모아 택시를 같이 탈 수 있게하는 서비스
 - 역할 : 카풀 그룹 생성 이벤트 및 기타 백앤드+프론트
-https://github.com/Lee-Hwa-Jun/Taxi
+- <a href="https://github.com/Lee-Hwa-Jun/Taxi">Git Hub Link</a>
 <img src="src/img3.png">
 <img src="src/img4.jpg">
   
