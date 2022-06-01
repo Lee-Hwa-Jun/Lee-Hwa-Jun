@@ -50,6 +50,8 @@
 
 IT 실무자 및 분석가에 적합하다고 판정 (만점!)
 
+---
+
 ### 🖥️보유스킬
 
 - Python ( + Django, Opencv, Tensorflow )
@@ -61,10 +63,12 @@ IT 실무자 및 분석가에 적합하다고 판정 (만점!)
 
 ---
 
-### 🏫세부 전공
+### 🏫학력
 
 - 주전공 빅데이터학과
 - 복수전공 AI로봇융합
+
+---
 
 ### 🥼연구활동
 
@@ -89,6 +93,8 @@ PyConAPAC 2016 참가
 
 SW summer camp in 
 
+---
+
 ### 🥇수상내역
 
 2015 드론톤 아마추어 1위
@@ -99,52 +105,47 @@ SW전공 교과목 연계 경진대회 1위
 
 ---
 
-### 💾수행프로젝트
+### 💾수행 프로젝트
 
-- 딥러닝 기반 맥락인식 댐퍼 제어 시스템 | 2018~2019
-    - 프로젝트 목표 : 장애인 스키 선수를 위한 댐퍼 자동 제어 시스템
-    - 역할 : 위치, 기울기 센서가 있는 데이터 수집용 기기를 제작하고 스키장에서 직접 운행하며 데이터를 수집, 댐퍼 제어용 기기를 제작하는데 기여하며 케이스 모델링
-    
-    ![그림1.png](src/%EA%B7%B8%EB%A6%BC1.png)
-    
-    ![그림3.png](src/%EA%B7%B8%EB%A6%BC3.png)
-    
-- SW해커톤 택시 카풀 어플 개발 | 2018.11.13~2018.11.14
-    - 프로젝트 목표 : 24시간 내에 개발을 하며 택시비 부담을 줄이기 위해 목적지가 같은 사람을 모아 택시를 같이 탈 수 있게하는 서비스
-    - 역할 : 카풀 그룹 생성 이벤트 및 기타 백앤드+프론트
-        
-        ![그림4.png](src/%EA%B7%B8%EB%A6%BC4.png)
-        
-        ![화면 캡처 2022-05-31 190359.jpg](src/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-05-31_190359.jpg)
-        
-- Farmtycoon 게임 개발 - Unity | 2021.03~2021.06
-    - 프로젝트 목표 : 힐링을 위한 가상현실 기반 농작 타이쿤 게임
-    - 역할 : 플레이어 이벤트부터 농작물 이벤트, 모든 에셋 관리 등 전반적인 부분 기여
-    
-    ![Untitled](src/Untitled.png)
-    
-    [https://www.youtube.com/watch?v=RFCvK_KgxNU&ab_channel=%EA%B9%80%EC%A0%95%EC%9B%85](https://www.youtube.com/watch?v=RFCvK_KgxNU&ab_channel=%EA%B9%80%EC%A0%95%EC%9B%85)
-    
-    [GitHub - MACE001/Farm_tycoon: Farm_tycoon 기말프로젝트 with 김정웅](https://github.com/MACE001/Farm_tycoon)
-    
-- Behind You 게임 개발 - Unity | 2021.03~2021.06
-    - 프로젝트 목표 : VR기반  생존 런닝 게임
-    - 역할 : 모든 기능 개인 개발
-    
-    ![그림5.png](src/%EA%B7%B8%EB%A6%BC5.png)
-    
-    [https://www.youtube.com/watch?v=S2j2F9yD7tk&ab_channel=HWAJUNLEE](https://www.youtube.com/watch?v=S2j2F9yD7tk&ab_channel=HWAJUNLEE)
-    
-    [GitHub - MACE001/UnityVR_running-game: UnityVR_running-game](https://github.com/MACE001/UnityVR_running-game)
-    
-- 코로나 지역별 간편 확인 사이트
-    - 프로젝트 목표 : 지역별로 코로나 단계를 확인하고, 지역 뉴스와 확진자를 한 홈페이지에서 전부 확인이 가능한 웹 서버
-    - 역할 : Django백앤드 기능 및 프론트 일부 담당
-    
-    [https://www.youtube.com/watch?v=pSyxsR61Cks&ab_channel=%EA%B9%80%EC%A0%95%EC%9B%85](https://www.youtube.com/watch?v=pSyxsR61Cks&ab_channel=%EA%B9%80%EC%A0%95%EC%9B%85)
-    
-    [GitHub - MACE001/Corona_korea_keep-distance: 코로나 지역별 간편 확인](https://github.com/MACE001/Corona_korea_keep-distance)
-    
+<details markdown="3">
+<summary>딥러닝 기반 맥락인식 댐퍼 제어 시스템 | 2018~2019</summary>
+
+- 프로젝트 목표 : 장애인 스키 선수를 위한 댐퍼 자동 제어 시스템
+- 역할 : 위치, 기울기 센서가 있는 데이터 수집용 기기를 제작하고 스키장에서 직접 운행하며 데이터를 수집, 댐퍼 제어용 기기를 제작하는데 기여하며 케이스 모델링
+
+</details>
+
+<details markdown="3">
+<summary>SW해커톤 택시 카풀 어플 개발 | 2018.11.13~2018.11.14</summary>
+
+- 프로젝트 목표 : 24시간 내에 개발을 하며 택시비 부담을 줄이기 위해 목적지가 같은 사람을 모아 택시를 같이 탈 수 있게하는 서비스
+- 역할 : 카풀 그룹 생성 이벤트 및 기타 백앤드+프론트
+
+</details>
+
+<details markdown="3">
+<summary>Farmtycoon 게임 개발 - Unity | 2021.03~2021.06</summary>
+
+- 프로젝트 목표 : 힐링을 위한 가상현실 기반 농작 타이쿤 게임
+- 역할 : 플레이어 이벤트부터 농작물 이벤트, 모든 에셋 관리 등 전반적인 부분 기여
+
+</details>
+
+<details markdown="3">
+<summary>Behind You 게임 개발 - Unity | 2021.03~2021.06</summary>
+
+- 프로젝트 목표 : VR기반  생존 런닝 게임
+- 역할 : 모든 기능 개인 개발
+
+</details>
+
+<details markdown="3">
+<summary>코로나 지역별 간편 확인 사이트</summary>
+
+- 프로젝트 목표 : 지역별로 코로나 단계를 확인하고, 지역 뉴스와 확진자를 한 홈페이지에서 전부 확인이 가능한 웹 서버
+- 역할 : Django백앤드 기능 및 프론트 일부 담당
+
+</details>
 
 ---
 
