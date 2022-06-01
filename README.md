@@ -157,6 +157,7 @@ SW전공 교과목 연계 경진대회 1위
 </details>
 
 ---
+[![Video Label](https://img.youtube.com/embed/VhAoHQ4-FvU/0.jpg)](https://www.youtube.com/embed/VhAoHQ4-FvU?t=0s)
 
 ### 📆앞으로의 계획
 
