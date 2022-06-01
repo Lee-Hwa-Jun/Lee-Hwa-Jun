@@ -134,7 +134,7 @@ SW전공 교과목 연계 경진대회 1위
 - 역할 : 플레이어 이벤트부터 농작물 이벤트, 모든 에셋 관리 등 전반적인 부분 기여
 <img src="src/img5.png">
   
-<a href="https://www.youtube.com/embed/RFCvK_KgxNU">유튜브 링크</a>
+- <a href="https://www.youtube.com/embed/RFCvK_KgxNU">유튜브 링크</a>
   
 </details>
 
@@ -145,7 +145,7 @@ SW전공 교과목 연계 경진대회 1위
 - 역할 : 모든 기능 개인 개발
 <img src="src/img6.png">
   
-<a href="https://www.youtube.com/embed/S2j2F9yD7tk">유튜브 링크</a>
+- <a href="https://www.youtube.com/embed/S2j2F9yD7tk">유튜브 링크</a>
   
 </details>
 
@@ -155,7 +155,7 @@ SW전공 교과목 연계 경진대회 1위
 - 프로젝트 목표 : 지역별로 코로나 단계를 확인하고, 지역 뉴스와 확진자를 한 홈페이지에서 전부 확인이 가능한 웹 서버
 - 역할 : Django백앤드 기능 및 프론트 일부 담당
 
-<a href="https://www.youtube.com/embed/VhAoHQ4-FvU">유튜브 링크</a>
+- <a href="https://www.youtube.com/embed/VhAoHQ4-FvU">유튜브 링크</a>
   
 </details>
 
