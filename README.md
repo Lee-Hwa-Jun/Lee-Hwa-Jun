@@ -134,7 +134,7 @@ https://github.com/Lee-Hwa-Jun/Taxi
 - 프로젝트 목표 : 힐링을 위한 가상현실 기반 농작 타이쿤 게임
 - 역할 : 플레이어 이벤트부터 농작물 이벤트, 모든 에셋 관리 등 전반적인 부분 기여
 - <a href="https://www.youtube.com/embed/RFCvK_KgxNU">Youtube Link</a>
-- <a href="https://github.com/Lee-Hwa-Jun/Farm_tycoon>Git Hub Link</a>
+- <a href="https://github.com/Lee-Hwa-Jun/Farm_tycoon">Git Hub Link</a>
 <img src="src/img5.png">
   
   
@@ -146,7 +146,7 @@ https://github.com/Lee-Hwa-Jun/Taxi
 - 프로젝트 목표 : VR기반  생존 런닝 게임
 - 역할 : 모든 기능 개인 개발
 - <a href="https://www.youtube.com/embed/S2j2F9yD7tk">Youtube Link</a>
-- <a href="https://github.com/Lee-Hwa-Jun/UnityVR_running-game>Git Hub Link</a>
+- <a href="https://github.com/Lee-Hwa-Jun/UnityVR_running-game">Git Hub Link</a>
 <img src="src/img6.png">
   
   
@@ -159,7 +159,7 @@ https://github.com/Lee-Hwa-Jun/Taxi
 - 역할 : Django백앤드 기능 및 프론트 일부 담당
 
 - <a href="https://www.youtube.com/embed/VhAoHQ4-FvU">Youtube Link</a>
-- <a href="https://github.com/Lee-Hwa-Jun/Corona_korea_keep-distance>Git Hub Link</a>
+- <a href="https://github.com/Lee-Hwa-Jun/Corona_korea_keep-distance">Git Hub Link</a>
   
 </details>
 
