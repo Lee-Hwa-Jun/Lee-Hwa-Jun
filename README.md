@@ -87,6 +87,8 @@ Asuan Haptics 2018 보조
 
 PyConAPAC 2016 참가
 
+SW summer camp in 
+
 ### 🥇수상내역
 
 2015 드론톤 아마추어 1위
