@@ -91,7 +91,7 @@ Asuan Haptics 2018 보조
 
 PyConAPAC 2016 참가
 
-SW summer camp in 
+SW summer camp in 국민대학교
 
 ---
 
