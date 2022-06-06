@@ -114,7 +114,6 @@ SW전공 교과목 연계 경진대회 1위
 - 역할 : 위치, 기울기 센서가 있는 데이터 수집용 기기를 제작하고 스키장에서 직접 운행하며 데이터를 수집, 댐퍼 제어용 기기를 제작하는데 기여하며 케이스 모델링
 <img src="src/img1.png">
 <img src="src/img2.png">
----
 </details>
 
 <details markdown="3">
@@ -125,7 +124,6 @@ SW전공 교과목 연계 경진대회 1위
 - <a href="https://github.com/Lee-Hwa-Jun/Taxi">Git Hub Link</a>
 <img src="src/img3.png">
 <img src="src/img4.jpg">
----
 </details>
 
 <details markdown="3">
@@ -136,7 +134,6 @@ SW전공 교과목 연계 경진대회 1위
 - <a href="https://www.youtube.com/embed/RFCvK_KgxNU">Youtube Link</a>
 - <a href="https://github.com/Lee-Hwa-Jun/Farm_tycoon">Git Hub Link</a>
 <img src="src/img5.png">
----
   
 </details>
 
@@ -148,7 +145,6 @@ SW전공 교과목 연계 경진대회 1위
 - <a href="https://www.youtube.com/embed/S2j2F9yD7tk">Youtube Link</a>
 - <a href="https://github.com/Lee-Hwa-Jun/UnityVR_running-game">Git Hub Link</a>
 <img src="src/img6.png">
----
   
 </details>
 
@@ -160,7 +156,6 @@ SW전공 교과목 연계 경진대회 1위
 
 - <a href="https://www.youtube.com/embed/VhAoHQ4-FvU">Youtube Link</a>
 - <a href="https://github.com/Lee-Hwa-Jun/Corona_korea_keep-distance">Git Hub Link</a>
----
 </details>
 
 ---
