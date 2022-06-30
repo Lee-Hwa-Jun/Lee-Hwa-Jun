@@ -53,7 +53,7 @@ IT 실무자 및 분석가에 적합하다고 판정 (만점!)
 ---
 
 ### 🖥️보유스킬
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdrjs2626&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - Python ( + Django, Opencv, Tensorflow )
 - Java, C, C# ( Unity )
 - Linux
