@@ -40,15 +40,15 @@
 
 - MBTI
 
-결과 : INTJ
+  결과 : INTJ
 
-계획중시, 이성적 논리적 성격
+  계획중시, 이성적 논리적 성격
 
 - eDISC
 
-결과 : C(신중성), S(안전성) 유형
+  결과 : C(신중성), S(안전성) 유형
 
-IT 실무자 및 분석가에 적합하다고 판정 (만점!)
+  IT 실무자 및 분석가에 적합하다고 판정 (만점!)
 
 ---
 
@@ -78,6 +78,8 @@ IT 실무자 및 분석가에 적합하다고 판정 (만점!)
 ---
 
 ### 💡경험
+
+(주)더존비즈온 서비스개발1센터 Backend API 개발자 6개월 실습
 
 (주)비상교육 AI기획 부서 개발자 2개월 실습
 
@@ -158,14 +160,29 @@ SW전공 교과목 연계 경진대회 1위
 - <a href="https://github.com/Lee-Hwa-Jun/Corona_korea_keep-distance">Git Hub Link</a>
 </details>
 
+<details markdown="3">
+<summary>인공지능을 활용한 CCTV</summary>
+
+- 프로젝트 목표 : CCTV 확인 시 불필요한 시간을 줄이기 위한 사람 인식 AI를 이용한 부분 핵심 녹화 기능
+- 역할 : 개인 프로젝트
+
+- <a href="https://github.com/Lee-Hwa-Jun/Intelligent-CCTV">Git Hub Link</a>
+</details>
+
+<details markdown="3">
+<summary>인공지능을 활용한 그림판</summary>
+
+- 프로젝트 목표 : 손 인식 인공지능을 활용한 그림판
+- 역할 : 개인 프로젝트
+
+- <a href="https://github.com/Lee-Hwa-Jun/mediapipe_handrawing">Git Hub Link</a>
+</details>
+
 ---
 
 ### 📆앞으로의 계획
 
 ```
-우선 6개월 기간의 인턴을 앞두고 있기 때문에 현재 학기를 잘 마치고 인턴 활동에 맞는 기술을
-더 향상시켜 좋은 인재가 되려고 노력할 것입니다.
-
-정보처리기사를 준비 중인데 이번 여름에 있는 3회차에 처음 시도하는데 
-좋은 결과가 있었으면 합니다.
+backend API 개발자의 길을 걷기 시작하였습니다.
+해당 분야에서 전문가가 되어 인정받는 개발자가 되고 싶습니다.
 ```
